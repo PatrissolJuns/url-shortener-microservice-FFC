@@ -1,0 +1,27 @@
+{
+	"author": "Patrissol KENFACK",
+	"name": "url-shortener-microservice-fcc-api-project",
+	"version": "1.0.0",
+	"description": "This is my solution of URL Shortener Microservice FFC API Project",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"dotenv": "^2.0.0",
+		"express": "^4.14.0",
+		"mongoose": "^4.6.6"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PatrissolJuns/url-shortener-microservice-FFC.git"
+	},
+	"keywords": [
+		"node",
+		"url",
+		"url-shortener",
+		"express",
+		"freecodecamp"
+	],
+	"license": "MIT"
+}
